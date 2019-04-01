@@ -1,0 +1,76 @@
+@media screen and (max-width:1280px){
+    #subheader p {margin-left: 10px;}
+    #subheader a{margin-right: 10px;}
+    #search{margin-left: 10px;width: 600px;}
+}
+@media screen and (max-width:1024px){
+    #search{width: 550px;margin-left: 40px;margin-top: -5px;}
+    .search-area{width: 530px;height: 40px;}
+    .search-btn{height: 40px;}
+    #logo{width: 120px;margin-left: 20px;}
+    #ist{font-size: 25px;}
+    #iist{font-size: 20px;}
+    #main-header{height: 70px;margin-top: -44px;}
+    #user-menu{width: 140px;}
+    #user-menu li{font-size: 15px;margin-left: -70px;width: 100px;
+        text-align:left;padding: 15px;margin-top: -5px}
+    #user-menu li:hover{font-size: 20px;}
+    nav{width: 1280px;}
+    nav a{margin-left: 60px;font-size: 17px;}
+    #wrapper p{width: 400%;}
+    .footer-sub{width: 450px;}
+    .footer_sub2{float: center;margin-top: 200px;margin-left: -40px;margin-right: 120px;}
+    .footer_sub3{float:center;}
+    .subs{width:600px;margin-left: 150px;}
+    .sub-p{margin-top:90px;margin-left: 300px;font-size: 12px;margin-top: 100px;}
+    .hd{margin-left: -250px;}
+    .sub-btn{margin-top:-50px;margin-left: 700px;}
+}
+@media screen and (max-width:768px){
+    #subheader a{font-size: 15px; margin-left: 15px;}
+    #search{width: 380px;margin-left: 20px;}
+    .search-area{width: 370px;height: 30px;}
+    #logo{width: 100px;}
+    #ist{font-size: 25px;}
+    #iist{font-size: 15px;}
+    .search-btn{height: 30px;width: 70px;margin-left: -70px;}
+    #main-header{height: 70px;margin-top: -44px;}
+    #user-menu{width: 110px;}
+    #user-menu li{font-size: 12px;margin-top: -12px;width: 90px;}
+    #user-menu li:hover{font-size: 15px;}
+    nav{width: 1080px;}
+    nav a{margin-left: 35px;font-size: 15px;}
+    #wrapper p{width: 400%;}
+    .footer-sub{width: 450px;}
+    .footer_sub2{float: center;margin-top: 200px;margin-left: -40px;margin-right: 120px;}
+    .footer_sub3{float:center;}
+    .subs{width:300px;margin-left: -250px;}
+    .sub-p{margin-top:90px;margin-left: -200px;font-size: 12px;margin-top: 100px;}
+    .hd{margin-left: -250px;}
+    .sub-btn{margin-top:0px;margin-left: 0px;}
+}
+@media screen and (max-width:480px){
+    #main-header{height: 50px;margin-top: -30px;}
+    #subheader a {font-size: 10px;margin-left: 15px;}
+    #subheader p{font-size: 10px;margin-left: 0px;}
+    #search{width: 250px;}
+    .search-area{width: 230px;font-size: 10px;}
+    .search-btn{height: 30px;width: 50px;margin-left: -50px;font-size: 10px;padding: 6px;}
+    #logo{width: 90px;margin-left: -14px;}
+    #user-menu{width: 100px;margin-top: -55px;}
+    #user-menu li{padding: 5px;margin-left: 20px;font-size: 10px;width: 90px;}
+    nav{width: 480px;}
+    nav a{margin-left: 18px;font-size: 10px;}
+    #navigation{height: 25px;}
+    #heading-block{margin-top: -50px;}
+    .footer-sub{width: 450px;}
+    #wrapper p{width: 400%;}
+    .footer_sub2{float: center;margin-top: 200px;margin-left: -40px;margin-right: 120px;}
+    .footer_sub3{float:center;}
+    .subs{width:300px;margin-left: -250px;}
+    .sub-p{margin-top:90px;margin-left: -200px;font-size: 12px;margin-top: 100px;}
+    .hd{margin-left: -250px;}
+}
+@media screen and (min-width:320px){
+   
+}

@@ -1,0 +1,8 @@
+@media screen and (max-width:1024px){
+    #header{margin-left: 25px;}
+    .col-md-6{margin-left: 25px;}
+}
+@media screen and (max-width:1040px){
+    #header{margin-left: 25px;}
+    .col-md-6{margin-left: 25px;}
+}
