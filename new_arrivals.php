@@ -13,6 +13,7 @@ if (!isset($_SESSION['first_name'])) {
         <link rel="stylesheet" href="css/media.css">
     </head>
     <body>
+    	<!-- ijuhigi -->
         <div id = "wrapper">
             <div id = "header">
                 <div id = "subheader">
